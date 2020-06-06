@@ -1,1 +1,1 @@
-# Introduction to ASP.Net Core 3 by Bhrugen Patel
+# Introduction to ASP.NET Core 3 by Bhrugen Patel
